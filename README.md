@@ -4,7 +4,9 @@
 - 📫 Reach me at email: sharrey@suhendra.com / LinkedIn: https://www.linkedin.com/in/sharrey-suhendra
 
 Check out my Tableau Public account!
+
 [Sharrey Suhendra Tableau Public](public.tableau.com/app/profile/sharrey.suhendra)
 
 Check out my Blog! - Sharing technical blogs in various topics
+
 [SharVenture Blog](https://sharventure.wixsite.com/blog)
