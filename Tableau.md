@@ -8,4 +8,4 @@ Check out my Tableau Public account!
 
 PROJECTS INCLUDE:
 - World Happiness (Geographic Maps, Filtering)
-- Superstore (Extracting specific data, Filtering, Various chaarts, Interactive & Dynamic dashboard)
+- Superstore (Extracting specific data, Filtering, Various charts, Interactive & Dynamic dashboard)
