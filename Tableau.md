@@ -1,7 +1,7 @@
 # Tableau Public Account
 
 Check out my Tableau Public account!
-[Sharrey Suhendra](public.tableau.com/app/profile/sharrey.suhendra)
+[Sharrey Suhendra Tableau Public](public.tableau.com/app/profile/sharrey.suhendra)
 
 
 - This is where I explore different public data and improve my visualization techniques
