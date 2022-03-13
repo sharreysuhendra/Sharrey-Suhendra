@@ -7,5 +7,5 @@ Check out my Tableau Public account!
 - This is where I explore different public data and improve my visualization techniques
 
 PROJECTS INCLUDE:
-- World Happiness 
-- Superstore
+- World Happiness (Geographic Maps, Filtering)
+- Superstore (Extracting specific data, Filtering, Various chaarts, Interactive & Dynamic dashboard)
