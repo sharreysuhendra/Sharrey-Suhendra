@@ -1,4 +1,7 @@
 # Google Data Analytics Professional Certificate
+### Progress
+Started on: January 2022
+Completed Courses: 1, 2, 3, 4, 5
 
 Preparing for a career in the high-growth field of data analytics. Over 8 courses, gain in-demand skills that prepare you for an entry-level job. Learn from Google employees whose foundations in data analytics served as launchpads for their own careers. 
 
@@ -13,10 +16,6 @@ This program includes over 180 hours of instruction and hundreds of practice-bas
 6. Share Data Through the Art of Visualizations
 7. Data Analysis with R Programming
 8. Google Data Analytics Capstone: Complete a Case Study
-
-## Progress
-Started on: January 2022
-Completed Courses: 1, 2, 3, 4, 5
 
 ## Skills to gain will include: 
 Data cleaning, problem solving, critical thinking, data ethics, and data visualization
