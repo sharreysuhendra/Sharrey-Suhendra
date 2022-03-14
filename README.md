@@ -14,7 +14,7 @@ Check out my Blog! - Sharing technical blogs in various topics
 
 [SharVenture Blog](https://sharventure.wixsite.com/blog)
 
-# Repositories
+# REPOSITORIES
 
 1. Tufts CS135 Intro to Machine Learning and Data Mining (Python Codes)
 2. Tufts CS30 Programming for Data Science (Python Codes)
