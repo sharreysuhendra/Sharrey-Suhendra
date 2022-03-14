@@ -11,13 +11,19 @@ This program includes over 180 hours of instruction and hundreds of practice-bas
 
 ## Courses
 1. Foundations: Data, Data, Everywhere
+- Gain an understanding of the practices and processes used by a junior or associate data analyst in their day-to-day job. 
+- Learn about key analytical skills (data cleaning, data analysis, data visualization) and tools (spreadsheets, SQL, R programming, Tableau) that you can add to your professional toolbox. 
+- Discover a wide variety of terms and concepts relevant to the role of a junior data analyst, such as the data life cycle and the data analysis process. 
+- Evaluate the role of analytics in the data ecosystem. 
+- Conduct an analytical thinking self-assessment. 
+- Explore job opportunities available to you upon program completion, and learn about best practices in the job search.
 2. Ask Questions to Make Data-Driven Decisions
-3. Prepare Data for Exploration
-4. Process Data from Dirty to Clean
-5. Analyze Data to Answer Questions
-6. Share Data Through the Art of Visualizations
-7. Data Analysis with R Programming
-8. Google Data Analytics Capstone: Complete a Case Study
+4. Prepare Data for Exploration
+5. Process Data from Dirty to Clean
+6. Analyze Data to Answer Questions
+7. Share Data Through the Art of Visualizations
+8. Data Analysis with R Programming
+9. Google Data Analytics Capstone: Complete a Case Study
 
 ## Skills to gain will include: 
 Data cleaning, problem solving, critical thinking, data ethics, and data visualization
