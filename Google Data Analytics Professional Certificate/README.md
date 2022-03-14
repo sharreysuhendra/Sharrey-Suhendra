@@ -1,6 +1,7 @@
 # Google Data Analytics Professional Certificate
 ## Progress
 Started on: January 2022
+
 Completed Courses: 1, 2, 3, 4, 5
 
 ## About
